@@ -1,0 +1,5 @@
+{
+  "name": "agent-core",
+  "description": "Core development principles and workflows: dynamic discovery, documentation standards, TDD cycle, and PR creation",
+  "version": "1.0.0"
+}

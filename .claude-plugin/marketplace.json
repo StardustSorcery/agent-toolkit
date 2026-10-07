@@ -1,0 +1,48 @@
+{
+  "name": "agent-toolkit",
+  "owner": {
+    "name": "StardustSorcery"
+  },
+  "metadata": {
+    "description": "Multi-plugin toolkit providing reusable agent rules, skills, and workflows for AI coding agents",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-core",
+      "source": "./plugins/core",
+      "description": "Core development principles and workflows: dynamic discovery, documentation standards, TDD cycle, and PR creation",
+      "category": "productivity"
+    },
+    {
+      "name": "stack-pnpm-monorepo",
+      "source": "./plugins/stack-pnpm-monorepo",
+      "description": "pnpm workspace and monorepo management: shared package boundaries, workspace protocol, cache and build isolation",
+      "category": "development"
+    },
+    {
+      "name": "stack-nestjs",
+      "source": "./plugins/stack-nestjs",
+      "description": "NestJS Clean Architecture: layered boundaries, dependency inversion, DI patterns, and naming conventions",
+      "category": "development"
+    },
+    {
+      "name": "stack-web-apps",
+      "source": "./plugins/stack-web-apps",
+      "description": "Frontend web application architecture: SPA/SSR/PWA design, React components, custom hooks, context providers, and naming conventions",
+      "category": "development"
+    },
+    {
+      "name": "stack-trpc",
+      "source": "./plugins/stack-trpc",
+      "description": "tRPC end-to-end type safety: shared type stubs, satisfies router pattern, client generation, and input validation",
+      "category": "development"
+    },
+    {
+      "name": "stack-docker-db",
+      "source": "./plugins/stack-docker-db",
+      "description": "Docker and database management: DDL design, migration numbering, schema management, and local container lifecycle",
+      "category": "database"
+    }
+  ]
+}

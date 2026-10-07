@@ -1,0 +1,5 @@
+{
+  "name": "stack-web-apps",
+  "description": "Frontend web application architecture: SPA/SSR/PWA design, React components, custom hooks, context providers, and naming conventions",
+  "version": "1.0.0"
+}

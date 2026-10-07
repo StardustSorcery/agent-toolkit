@@ -1,0 +1,5 @@
+{
+  "name": "stack-pnpm-monorepo",
+  "description": "pnpm workspace and monorepo management: shared package boundaries, workspace protocol, cache and build isolation",
+  "version": "1.0.0"
+}

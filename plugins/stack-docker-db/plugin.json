@@ -1,0 +1,5 @@
+{
+  "name": "stack-docker-db",
+  "description": "Docker and database management: DDL design, migration numbering, schema management, and local container lifecycle",
+  "version": "1.0.0"
+}

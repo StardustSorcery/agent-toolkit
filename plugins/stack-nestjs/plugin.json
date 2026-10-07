@@ -1,0 +1,5 @@
+{
+  "name": "stack-nestjs",
+  "description": "NestJS Clean Architecture: layered boundaries, dependency inversion, DI patterns, and naming conventions",
+  "version": "1.0.0"
+}

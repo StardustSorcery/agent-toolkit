@@ -1,0 +1,5 @@
+{
+  "name": "stack-trpc",
+  "description": "tRPC end-to-end type safety: shared type stubs, satisfies router pattern, client generation, and input validation",
+  "version": "1.0.0"
+}

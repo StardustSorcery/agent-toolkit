@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "path": "tools/agent-toolkit/plugins",
+      "include_only": [
+        "core",
+        "stack-pnpm-monorepo",
+        "stack-nestjs",
+        "stack-web-apps",
+        "stack-trpc",
+        "stack-docker-db"
+      ]
+    }
+  ]
+}
